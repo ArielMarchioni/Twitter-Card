@@ -1,2 +1,2 @@
 # Twitter-Card
- Primer 
+ Primer ejercicio Para el curso de desarrollo web front end en UTN
